@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -ResourceGroupName "hikumalearning" -TemplateFile "azStorageProvisioning.json"
